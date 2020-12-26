@@ -1,0 +1,2 @@
+* Instrument VST parameters doesn't scale at half and full size
+* Instrument VST parameters are not always useful (zynaddsubfx)
