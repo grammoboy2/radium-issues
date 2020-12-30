@@ -1,0 +1,3 @@
+Make it possible to copy parts of a swing-track
+
+You can copy all swing data in a track by pressing left alt + c, and paste by pressing left alt + v. There is no functionality to copy parts of a swing-track.
